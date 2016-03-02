@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{279FB1EA-31B4-41AF-B4F8-B76DEBDB4F3E}</ProjectGuid>
+    <ProjectGuid>{82DBFCC2-4612-4301-A0EF-276746A9AC83}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_1___PrimePalindrome</RootNamespace>
-    <AssemblyName>1 - PrimePalindrome</AssemblyName>
+    <RootNamespace>_2___SumOfPrimes</RootNamespace>
+    <AssemblyName>2 - SumOfPrimes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
