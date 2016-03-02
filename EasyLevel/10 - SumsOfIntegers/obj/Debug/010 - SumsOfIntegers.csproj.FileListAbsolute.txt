@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\10 - SumsOfIntegers\bin\Debug\10 - SumsOfIntegers.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\10 - SumsOfIntegers\bin\Debug\10 - SumsOfIntegers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\10 - SumsOfIntegers\bin\Debug\10 - SumsOfIntegers.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\10 - SumsOfIntegers\obj\Debug\10 - SumsOfIntegers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\10 - SumsOfIntegers\obj\Debug\10 - SumsOfIntegers.pdb
