@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\9 - BitPosition\bin\Debug\9 - BitPosition.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\9 - BitPosition\bin\Debug\9 - BitPosition.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\9 - BitPosition\bin\Debug\9 - BitPosition.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\9 - BitPosition\obj\Debug\9 - BitPosition.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\9 - BitPosition\obj\Debug\9 - BitPosition.pdb

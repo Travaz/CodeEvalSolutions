@@ -1,6 +1,0 @@
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\bin\Debug\EasyLevel.exe.config
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\bin\Debug\EasyLevel.exe
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\bin\Debug\EasyLevel.pdb
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\obj\Debug\EasyLevel.csprojResolveAssemblyReference.cache
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\obj\Debug\EasyLevel.exe
-C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\EasyLevel\obj\Debug\EasyLevel.pdb

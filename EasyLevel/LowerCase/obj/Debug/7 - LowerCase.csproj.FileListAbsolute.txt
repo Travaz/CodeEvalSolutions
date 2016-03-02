@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\LowerCase\bin\Debug\LowerCase.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\LowerCase\bin\Debug\LowerCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\LowerCase\bin\Debug\LowerCase.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\LowerCase\obj\Debug\LowerCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\LowerCase\obj\Debug\LowerCase.pdb

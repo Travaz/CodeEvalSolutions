@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\bin\Debug\8 - SumOfDigit.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\bin\Debug\8 - SumOfDigit.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\bin\Debug\8 - SumOfDigit.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\obj\Debug\8 - SumOfDigit.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\obj\Debug\8 - SumOfDigit.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\8 - SumOfDigit\obj\Debug\8 - SumOfDigit.csprojResolveAssemblyReference.cache
