@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\5 - MultipliesNumber\bin\Debug\5 - MultipliesNumber.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\5 - MultipliesNumber\bin\Debug\5 - MultipliesNumber.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\5 - MultipliesNumber\bin\Debug\5 - MultipliesNumber.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\5 - MultipliesNumber\obj\Debug\5 - MultipliesNumber.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\5 - MultipliesNumber\obj\Debug\5 - MultipliesNumber.pdb
