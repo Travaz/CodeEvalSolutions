@@ -3,3 +3,4 @@ C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\2 - SumOfPrimes\bin\
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\2 - SumOfPrimes\bin\Debug\2 - SumOfPrimes.pdb
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\2 - SumOfPrimes\obj\Debug\2 - SumOfPrimes.exe
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\2 - SumOfPrimes\obj\Debug\2 - SumOfPrimes.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\2 - SumOfPrimes\obj\Debug\2 - SumOfPrimes.csprojResolveAssemblyReference.cache

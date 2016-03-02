@@ -21,11 +21,11 @@ namespace _2___SumOfPrimes
             bool primo;
             List<int> Primes = new List<int>();
 
-            for (int i = 0; i < 1000; i++)
+            for (int i = 2; i < 1000; i++)
             {
                 primo = true;
                 divisore = 2;
-                while (divisore < i)
+                while (divisore <= i/2)
                 {
                     if (i % divisore == 0)
                     {
