@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\FileSize\bin\Debug\FileSize.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\FileSize\bin\Debug\FileSize.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\FileSize\bin\Debug\FileSize.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\FileSize\obj\Debug\FileSize.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\FileSize\obj\Debug\FileSize.pdb

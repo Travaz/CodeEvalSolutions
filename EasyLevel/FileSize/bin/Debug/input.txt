@@ -1,0 +1,33 @@
+Example. As an example, FileInfo is useful if your program modifies files, and you want to see how many bytes have been added or removed. This is useful for compression or just data analysis.
+
+Here:
+We see five ways to use FileInfo. The Length is returned as a long, but it often can be safely cast to an int.
+
+Long
+
+
+
+
+
+
+
+Based on: .NET 4.5
+
+C# program that gets file size
+
+using System;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+	// The name of the file.
+	const string fileName = "test.txt";
+
+	// Create new FileInfo object and get the Length.
+	FileInfo f = new FileInfo(fileName);
+	long s1 = f.Length;
+
+	// Change something with the file.
+	File.AppendAllText(fileName
