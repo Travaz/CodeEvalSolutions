@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\bin\Debug\4 - Reverse Word.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\bin\Debug\4 - Reverse Word.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\bin\Debug\4 - Reverse Word.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\obj\Debug\4 - Reverse Word.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\obj\Debug\4 - Reverse Word.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\4 - Reverse Word\obj\Debug\4 - Reverse Word.pdb
