@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\bin\Debug\1 - PrimePalindrome.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\obj\Debug\1 - PrimePalindrome.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\obj\Debug\1 - PrimePalindrome.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\bin\Debug\1 - PrimePalindrome.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\bin\Debug\1 - PrimePalindrome.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\1 - PrimePalindrome\obj\Debug\001 - PrimePalindrome.csprojResolveAssemblyReference.cache

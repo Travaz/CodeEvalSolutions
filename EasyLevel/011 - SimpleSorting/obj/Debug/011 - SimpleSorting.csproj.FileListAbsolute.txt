@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\bin\Debug\011 - SimpleSorting.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\bin\Debug\011 - SimpleSorting.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\bin\Debug\011 - SimpleSorting.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\obj\Debug\011 - SimpleSorting.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\obj\Debug\011 - SimpleSorting.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\011 - SimpleSorting\obj\Debug\011 - SimpleSorting.csprojResolveAssemblyReference.cache

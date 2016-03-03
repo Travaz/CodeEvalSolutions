@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\11 - SimpleSorting\bin\Debug\11 - SimpleSorting.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\11 - SimpleSorting\bin\Debug\11 - SimpleSorting.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\11 - SimpleSorting\bin\Debug\11 - SimpleSorting.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\11 - SimpleSorting\obj\Debug\11 - SimpleSorting.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\11 - SimpleSorting\obj\Debug\11 - SimpleSorting.pdb
