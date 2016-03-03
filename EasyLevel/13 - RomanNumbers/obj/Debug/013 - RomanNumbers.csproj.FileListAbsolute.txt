@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\bin\Debug\13 - RomanNumbers.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\bin\Debug\13 - RomanNumbers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\bin\Debug\13 - RomanNumbers.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\obj\Debug\13 - RomanNumbers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\obj\Debug\13 - RomanNumbers.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\13 - RomanNumbers\obj\Debug\013 - RomanNumbers.csprojResolveAssemblyReference.cache

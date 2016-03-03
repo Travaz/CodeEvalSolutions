@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\bin\Debug\012 - FacebookStrings.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\bin\Debug\012 - FacebookStrings.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\bin\Debug\012 - FacebookStrings.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\obj\Debug\012 - FacebookStrings.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\obj\Debug\012 - FacebookStrings.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\012 - FacebookStrings\obj\Debug\012 - FacebookStrings.csprojResolveAssemblyReference.cache
