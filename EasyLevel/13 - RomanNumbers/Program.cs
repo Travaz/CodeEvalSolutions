@@ -11,23 +11,16 @@ namespace _13___RomanNumbers
     {
         static void Main(string[] args)
         {
-            
             var input = args.Length > 0 ? args[0] : "input.txt";
-            using (StreamReader sr = File.OpenText(input))
-            {
-                while(!sr.EndOfStream)
-                {
-                    string StringNumber = sr.ReadLine();
-                    int Number = int.Parse(StringNumber);
-                    Console.WriteLine(ToRomanIntegers(Number));
-                }
-            }
-            Console.ReadLine();
+            File.ReadAllLines(input)
+                .Select((item) => int.Parse(item).ToRomanStrings()).ToList().ForEach(Console.WriteLine);
         }
+    }
 
-        static string ToRomanIntegers(int number)
+    public static class IntExtensionRoman
+    {
+        public static string ToRomanStrings(this int number)
         {
-
             var romanNumerals = new string[][]
             {
                  new string[] { "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX" }, // Primi 10 numeri
@@ -40,7 +33,7 @@ namespace _13___RomanNumbers
             var intArr = number.ToString().Reverse().ToArray();
             var i = intArr.Length;
 
-            while (i -- > 0)
+            while (i-- > 0)
             {
                 RomanString += romanNumerals[i][Int32.Parse(intArr[i].ToString())];
             }
