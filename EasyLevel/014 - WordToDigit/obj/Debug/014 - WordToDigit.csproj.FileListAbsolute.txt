@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\bin\Debug\014 - WordToDigit.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\bin\Debug\014 - WordToDigit.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\bin\Debug\014 - WordToDigit.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\obj\Debug\014 - WordToDigit.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\obj\Debug\014 - WordToDigit.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\014 - WordToDigit\obj\Debug\014 - WordToDigit.pdb

@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 - FacebookStrings", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 - RomanNumbers", "13 - RomanNumbers\013 - RomanNumbers.csproj", "{9A253941-C771-474F-A820-6EFF7741614A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 - WordToDigit", "014 - WordToDigit\014 - WordToDigit.csproj", "{92DECBC9-EEBB-4CB2-98F5-EDA611FE2AD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,10 +89,10 @@ Global
 		{9A253941-C771-474F-A820-6EFF7741614A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A253941-C771-474F-A820-6EFF7741614A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A253941-C771-474F-A820-6EFF7741614A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DECBC9-EEBB-4CB2-98F5-EDA611FE2AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DECBC9-EEBB-4CB2-98F5-EDA611FE2AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DECBC9-EEBB-4CB2-98F5-EDA611FE2AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DECBC9-EEBB-4CB2-98F5-EDA611FE2AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
