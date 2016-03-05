@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\bin\Debug\016 - StringsAndArrows.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\bin\Debug\016 - StringsAndArrows.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\bin\Debug\016 - StringsAndArrows.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\obj\Debug\016 - StringsAndArrows.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\obj\Debug\016 - StringsAndArrows.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\016 - StringsAndArrows\obj\Debug\016 - StringsAndArrows.csprojResolveAssemblyReference.cache
