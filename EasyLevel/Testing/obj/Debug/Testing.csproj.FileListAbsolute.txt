@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\bin\Debug\Testing.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\bin\Debug\Testing.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\bin\Debug\Testing.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\obj\Debug\Testing.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\Testing\obj\Debug\Testing.pdb

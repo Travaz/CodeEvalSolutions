@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
+using System.Globalization;
 using System.Threading.Tasks;
 
 namespace _011___SimpleSorting
@@ -12,39 +13,26 @@ namespace _011___SimpleSorting
         static void Main(string[] args)
         {
             var input = args.Length > 0 ? args[0] : "input.txt";
+
+            //Lazy Way...
             using (StreamReader reader = File.OpenText(input))
             {
-                //First try
-
+                string format = "F" + 3.ToString();
+                IFormatProvider provider = CultureInfo.InvariantCulture;
                 while (!reader.EndOfStream)
                 {
-                    List<double> doubleNumbers = new List<double>();
-                    string line = reader.ReadLine();
+                    var line = reader.ReadLine()
+                        .Split(' ')
+                        .Select((number) => double.Parse(number, provider))
+                        .ToList();
 
-                    foreach (string DoubleAsString in line.Split(' '))
-                        doubleNumbers.Add(Double.Parse(DoubleAsString));
-
-                    doubleNumbers.Sort();
-                    foreach (var number in doubleNumbers)
-                    {
-                        Console.Write($"{number} ");
-                    }
+                    line.Sort();
+                    line.ForEach(x => Console.Write($"{x.ToString(format, provider).Replace(",", ".")} "));
                     Console.WriteLine();
                 }
-
-                //Second Try
-
-                //while (!reader.EndOfStream)
-                //{
-                //    List<double> doubles = reader.ReadLine().Split(' ').Select(s => double.Parse(s)).ToList();
-                //    foreach (var item in doubles)
-                //    {
-                //        Console.WriteLine(item);
-                //    }
-                //}
             }
-                         
-            Console.ReadLine();
+            Console.ReadLine();           
         }
     }
 }
+
