@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\bin\Debug\015 - ModOperation.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\bin\Debug\015 - ModOperation.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\bin\Debug\015 - ModOperation.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\obj\Debug\015 - ModOperation.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\obj\Debug\015 - ModOperation.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\015 - ModOperation\obj\Debug\015 - ModOperation.pdb

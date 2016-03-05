@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB71EB26-96DE-4AA7-A99D-C6141826CA5E}</ProjectGuid>
+    <ProjectGuid>{A909D0FB-EB67-449F-A901-DB6551D1BA1B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Testing</RootNamespace>
-    <AssemblyName>Testing</AssemblyName>
+    <RootNamespace>_015___ModOperation</RootNamespace>
+    <AssemblyName>015 - ModOperation</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
