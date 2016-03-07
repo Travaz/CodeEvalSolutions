@@ -14,6 +14,8 @@ namespace _13___RomanNumbers
             var input = args.Length > 0 ? args[0] : "input.txt";
             File.ReadAllLines(input)
                 .Select((item) => int.Parse(item).ToRomanStrings()).ToList().ForEach(Console.WriteLine);
+
+            Console.ReadLine();
         }
     }
 

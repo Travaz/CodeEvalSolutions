@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 - ModOperation", "015 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 - StringsAndArrows", "016 - StringsAndArrows\016 - StringsAndArrows.csproj", "{C1994703-D95F-41BD-BEAF-1716C0C5E66F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 - StringMask", "017 - StringMask\017 - StringMask.csproj", "{E52A514A-CEE1-4C4C-B783-3DEA8BAA7B67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C1994703-D95F-41BD-BEAF-1716C0C5E66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1994703-D95F-41BD-BEAF-1716C0C5E66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1994703-D95F-41BD-BEAF-1716C0C5E66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52A514A-CEE1-4C4C-B783-3DEA8BAA7B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52A514A-CEE1-4C4C-B783-3DEA8BAA7B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52A514A-CEE1-4C4C-B783-3DEA8BAA7B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52A514A-CEE1-4C4C-B783-3DEA8BAA7B67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

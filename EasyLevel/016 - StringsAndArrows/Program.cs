@@ -20,7 +20,6 @@ namespace _016___StringsAndArrows
                   .ToList()
                   .ForEach(Console.WriteLine);
 
-
             Console.ReadLine();           
         }
 

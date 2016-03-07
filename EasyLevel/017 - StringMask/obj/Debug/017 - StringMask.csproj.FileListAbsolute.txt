@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\bin\Debug\017 - StringMask.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\bin\Debug\017 - StringMask.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\bin\Debug\017 - StringMask.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\obj\Debug\017 - StringMask.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\obj\Debug\017 - StringMask.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\017 - StringMask\obj\Debug\017 - StringMask.pdb
