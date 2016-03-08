@@ -1,0 +1,5 @@
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\EasyLevel\018 - FibonacciSeries\bin\Debug\018 - FibonacciSeries.exe.config
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\EasyLevel\018 - FibonacciSeries\bin\Debug\018 - FibonacciSeries.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\EasyLevel\018 - FibonacciSeries\bin\Debug\018 - FibonacciSeries.pdb
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\EasyLevel\018 - FibonacciSeries\obj\Debug\018 - FibonacciSeries.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\EasyLevel\018 - FibonacciSeries\obj\Debug\018 - FibonacciSeries.pdb
