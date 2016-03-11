@@ -9,7 +9,7 @@ namespace _012___FacebookStrings
 {
     class Program
     {
-        static IDictionary<char, int> Dict;
+        static Dictionary<char, int> Dict;
 
         static void Main(string[] args)
         {
@@ -42,7 +42,7 @@ namespace _012___FacebookStrings
                 }               
             }
 
-            foreach (KeyValuePair<char, int> item in Dict.OrderByDescending(key => key.Key))
+            foreach (KeyValuePair<char, int> item in Dict.OrderByDescending(key => key.Value))
                 sum += (item.Value * value--);
             return sum;
         }
