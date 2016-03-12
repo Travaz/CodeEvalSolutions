@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018 - FibonacciSeries", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019 - ArmstrongNumbers", "019 - ArmstrongNumbers\019 - ArmstrongNumbers.csproj", "{A39923B0-BF51-4304-B0C1-8C9C5EF1D734}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020 - CapitalizeWords", "020 - CapitalizeWords\020 - CapitalizeWords.csproj", "{035386C0-DF3C-40DF-B1AC-E88F91721B64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A39923B0-BF51-4304-B0C1-8C9C5EF1D734}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A39923B0-BF51-4304-B0C1-8C9C5EF1D734}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A39923B0-BF51-4304-B0C1-8C9C5EF1D734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035386C0-DF3C-40DF-B1AC-E88F91721B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035386C0-DF3C-40DF-B1AC-E88F91721B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035386C0-DF3C-40DF-B1AC-E88F91721B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035386C0-DF3C-40DF-B1AC-E88F91721B64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

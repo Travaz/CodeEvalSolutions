@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\bin\Debug\020 - CapitalizeWords.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\bin\Debug\020 - CapitalizeWords.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\bin\Debug\020 - CapitalizeWords.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\obj\Debug\020 - CapitalizeWords.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\obj\Debug\020 - CapitalizeWords.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\020 - CapitalizeWords\obj\Debug\020 - CapitalizeWords.pdb
