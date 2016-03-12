@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\bin\Debug\022 - LongestWord.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\bin\Debug\022 - LongestWord.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\bin\Debug\022 - LongestWord.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\obj\Debug\022 - LongestWord.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\obj\Debug\022 - LongestWord.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\022 - LongestWord\obj\Debug\022 - LongestWord.csprojResolveAssemblyReference.cache

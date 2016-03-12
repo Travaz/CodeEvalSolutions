@@ -3,3 +3,4 @@ C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\021 - SwapElements\b
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\021 - SwapElements\bin\Debug\021 - SwapElements.pdb
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\021 - SwapElements\obj\Debug\021 - SwapElements.exe
 C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\021 - SwapElements\obj\Debug\021 - SwapElements.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\021 - SwapElements\obj\Debug\021 - SwapElements.csprojResolveAssemblyReference.cache

@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020 - CapitalizeWords", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 - SwapElements", "021 - SwapElements\021 - SwapElements.csproj", "{A66D3F18-F062-4D19-9EC3-5F2EE977D3FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022 - LongestWord", "022 - LongestWord\022 - LongestWord.csproj", "{C7120C12-9D29-48FB-8A6B-6BF227E8FF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{A66D3F18-F062-4D19-9EC3-5F2EE977D3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A66D3F18-F062-4D19-9EC3-5F2EE977D3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A66D3F18-F062-4D19-9EC3-5F2EE977D3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7120C12-9D29-48FB-8A6B-6BF227E8FF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7120C12-9D29-48FB-8A6B-6BF227E8FF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7120C12-9D29-48FB-8A6B-6BF227E8FF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7120C12-9D29-48FB-8A6B-6BF227E8FF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
