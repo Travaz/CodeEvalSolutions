@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\bin\Debug\023 - SwapLettersCase.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\bin\Debug\023 - SwapLettersCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\bin\Debug\023 - SwapLettersCase.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\obj\Debug\023 - SwapLettersCase.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\obj\Debug\023 - SwapLettersCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\023 - SwapLettersCase\obj\Debug\023 - SwapLettersCase.pdb
