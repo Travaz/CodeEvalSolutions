@@ -22,15 +22,11 @@ namespace _5___MultipliesNumber
                     int multiplier = int.Parse(splitted[1]);
                     int multipliering = multiplier;
 
-                    if (multipliering >= number)
-                        Console.WriteLine(multipliering);
-                    else 
-                        while(multipliering <= number)
-                        {   
-                            multipliering *= 2;
-                            if (multipliering >= number)
-                                Console.WriteLine(multipliering);                                   
+                    while(multipliering < number)
+                    {   
+                        multipliering += multiplier;                                  
                     }
+                    Console.WriteLine(multipliering);
                 }
         }
     }

@@ -16,7 +16,7 @@ namespace _022___LongestWord
             File.ReadAllLines(input)
                 .Select(line => line.Split(' ')
                     .ToList()
-                    .MaxStringLength(word => word.Length)                 
+                    .MaxStringLength()                 
                 )
                 .ToList()
                 .ForEach(Console.WriteLine);
@@ -25,7 +25,7 @@ namespace _022___LongestWord
 
     static class MaxStringLengthExtension
     {
-        public static string MaxStringLength<T>(this List<T> sequence, Func<T, int> function)
+        public static string MaxStringLength<T>(this List<T> sequence)
         {
             string maxItem = sequence.First().ToString();
             foreach (var i in sequence)
@@ -34,7 +34,6 @@ namespace _022___LongestWord
                 if (checkingMax.Length > maxItem.Length)
                     maxItem = checkingMax;
             }
-
             return maxItem;
         }
     }
