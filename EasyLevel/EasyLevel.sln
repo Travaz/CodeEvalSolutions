@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023 - SwapLettersCase", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024 - PenultimateWord", "024 - PenultimateWord\024 - PenultimateWord.csproj", "{593C4192-5DCD-4B6F-B4A9-71B6A2E62D4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025 - MultiplicationTables", "025 - MultiplicationTables\025 - MultiplicationTables.csproj", "{06F261FF-98A0-4F45-9C5F-62EE0727C4B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{593C4192-5DCD-4B6F-B4A9-71B6A2E62D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{593C4192-5DCD-4B6F-B4A9-71B6A2E62D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{593C4192-5DCD-4B6F-B4A9-71B6A2E62D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F261FF-98A0-4F45-9C5F-62EE0727C4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F261FF-98A0-4F45-9C5F-62EE0727C4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F261FF-98A0-4F45-9C5F-62EE0727C4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F261FF-98A0-4F45-9C5F-62EE0727C4B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

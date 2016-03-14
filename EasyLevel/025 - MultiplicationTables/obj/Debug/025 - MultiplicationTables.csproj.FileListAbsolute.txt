@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\025 - MultiplicationTables\bin\Debug\025 - MultiplicationTables.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\025 - MultiplicationTables\bin\Debug\025 - MultiplicationTables.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\025 - MultiplicationTables\bin\Debug\025 - MultiplicationTables.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\025 - MultiplicationTables\obj\Debug\025 - MultiplicationTables.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\025 - MultiplicationTables\obj\Debug\025 - MultiplicationTables.pdb
