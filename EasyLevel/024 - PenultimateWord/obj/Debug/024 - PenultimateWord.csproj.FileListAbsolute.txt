@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\bin\Debug\024 - PenultimateWord.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\bin\Debug\024 - PenultimateWord.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\bin\Debug\024 - PenultimateWord.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\obj\Debug\024 - PenultimateWord.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\obj\Debug\024 - PenultimateWord.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\024 - PenultimateWord\obj\Debug\024 - PenultimateWord.pdb
