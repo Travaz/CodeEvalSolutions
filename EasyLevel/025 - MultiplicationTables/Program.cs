@@ -20,13 +20,13 @@ namespace _025___MultiplicationTables
                     switch (multiplication.ToString().Length)
                     {
                         case 1:
-                            Console.Write($"    {multiplication}");
+                            Console.Write(String.Format("    {0}", multiplication));
                             break;
                         case 2:
-                            Console.Write($"   {multiplication}");
+                            Console.Write(String.Format("   {0}",multiplication));
                             break;
                         case 3:
-                            Console.Write($"  {multiplication}");
+                            Console.Write(String.Format("  {0}",multiplication));
                             break;                      
                     }                                    
                 }
