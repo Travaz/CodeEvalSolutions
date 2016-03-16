@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\bin\Debug\027 - PercentageCase.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\bin\Debug\027 - PercentageCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\bin\Debug\027 - PercentageCase.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\obj\Debug\027 - PercentageCase.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\obj\Debug\027 - PercentageCase.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\027 - PercentageCase\obj\Debug\027 - PercentageCase.pdb
