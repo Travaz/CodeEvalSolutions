@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - OneAsBinary", "001 - OneAsBinary\001 - OneAsBinary.csproj", "{395EF4B2-A1E2-46C2-8F61-538B06BF1FE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - EvenNumbers", "002 - EvenNumbers\002 - EvenNumbers.csproj", "{B10EC3AA-0184-47CB-804F-25967D99F60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - StackImplementation", "003 - StackImplementation\003 - StackImplementation.csproj", "{B2AE3B08-0ED4-42E0-9DEA-86910F0BA66C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B10EC3AA-0184-47CB-804F-25967D99F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B10EC3AA-0184-47CB-804F-25967D99F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B10EC3AA-0184-47CB-804F-25967D99F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AE3B08-0ED4-42E0-9DEA-86910F0BA66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AE3B08-0ED4-42E0-9DEA-86910F0BA66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AE3B08-0ED4-42E0-9DEA-86910F0BA66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AE3B08-0ED4-42E0-9DEA-86910F0BA66C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

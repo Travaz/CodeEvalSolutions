@@ -1,6 +1,0 @@
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\bin\Debug\BlinkerService.exe.config
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\bin\Debug\BlinkerService.exe
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\bin\Debug\BlinkerService.pdb
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\obj\Debug\BlinkerService.csprojResolveAssemblyReference.cache
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\obj\Debug\BlinkerService.exe
-C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\BlinkerService\obj\Debug\BlinkerService.pdb

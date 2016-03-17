@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\bin\Debug\003 - StackImplementation.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\obj\Debug\003 - StackImplementation.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\bin\Debug\003 - StackImplementation.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\bin\Debug\003 - StackImplementation.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\obj\Debug\003 - StackImplementation.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\003 - StackImplementation\obj\Debug\003 - StackImplementation.pdb
