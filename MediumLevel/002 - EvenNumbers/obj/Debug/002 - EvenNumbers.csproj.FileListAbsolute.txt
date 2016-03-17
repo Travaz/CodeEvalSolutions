@@ -1,0 +1,5 @@
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\002 - EvenNumbers\bin\Debug\002 - EvenNumbers.exe.config
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\002 - EvenNumbers\bin\Debug\002 - EvenNumbers.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\002 - EvenNumbers\bin\Debug\002 - EvenNumbers.pdb
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\002 - EvenNumbers\obj\Debug\002 - EvenNumbers.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\002 - EvenNumbers\obj\Debug\002 - EvenNumbers.pdb
