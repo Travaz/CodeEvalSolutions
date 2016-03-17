@@ -1,0 +1,6 @@
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\bin\Debug\001 - OneAsBinary.exe.config
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\bin\Debug\001 - OneAsBinary.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\bin\Debug\001 - OneAsBinary.pdb
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\obj\Debug\001 - OneAsBinary.csprojResolveAssemblyReference.cache
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\obj\Debug\001 - OneAsBinary.exe
+C:\Users\daniel.travaglia\Source\Repos\CodeEvalSolutions\MediumLevel\001 - OneAsBinary\obj\Debug\001 - OneAsBinary.pdb
