@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\bin\Debug\004 - LastFromList.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\bin\Debug\004 - LastFromList.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\bin\Debug\004 - LastFromList.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\obj\Debug\004 - LastFromList.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\obj\Debug\004 - LastFromList.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\004 - LastFromList\obj\Debug\004 - LastFromList.pdb
