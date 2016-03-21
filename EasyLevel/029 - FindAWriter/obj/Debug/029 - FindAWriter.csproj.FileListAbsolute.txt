@@ -1,0 +1,5 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\029 - FindAWriter\bin\Debug\029 - FindAWriter.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\029 - FindAWriter\bin\Debug\029 - FindAWriter.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\029 - FindAWriter\bin\Debug\029 - FindAWriter.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\029 - FindAWriter\obj\Debug\029 - FindAWriter.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\029 - FindAWriter\obj\Debug\029 - FindAWriter.pdb
