@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\bin\Debug\028 - MorseCode.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\bin\Debug\028 - MorseCode.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\bin\Debug\028 - MorseCode.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\obj\Debug\028 - MorseCode.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\obj\Debug\028 - MorseCode.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\028 - MorseCode\obj\Debug\028 - MorseCode.pdb
