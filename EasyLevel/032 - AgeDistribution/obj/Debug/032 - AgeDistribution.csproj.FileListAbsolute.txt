@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\bin\Debug\032 - AgeDistribution.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\bin\Debug\032 - AgeDistribution.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\bin\Debug\032 - AgeDistribution.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\obj\Debug\032 - AgeDistribution.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\obj\Debug\032 - AgeDistribution.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\032 - AgeDistribution\obj\Debug\032 - AgeDistribution.pdb
