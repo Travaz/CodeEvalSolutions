@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\bin\Debug\030 - MersennePrime.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\bin\Debug\030 - MersennePrime.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\bin\Debug\030 - MersennePrime.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\obj\Debug\030 - MersennePrime.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\obj\Debug\030 - MersennePrime.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\030 - MersennePrime\obj\Debug\030 - MersennePrime.pdb
