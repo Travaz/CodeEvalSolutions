@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\bin\Debug\031 - CleanWords.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\bin\Debug\031 - CleanWords.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\bin\Debug\031 - CleanWords.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\obj\Debug\031 - CleanWords.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\obj\Debug\031 - CleanWords.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\031 - CleanWords\obj\Debug\031 - CleanWords.pdb
