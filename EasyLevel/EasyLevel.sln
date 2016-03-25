@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032 - AgeDistribution", "03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033 - MultiplyLists", "033 - MultiplyLists\033 - MultiplyLists.csproj", "{0D37040B-C3BA-4E03-9FD3-DEDF30B6AC18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034 - TrickOrTreat", "034 - TrickOrTreat\034 - TrickOrTreat.csproj", "{1C30815B-84F1-403A-BF07-CEF92BF32839}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{0D37040B-C3BA-4E03-9FD3-DEDF30B6AC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D37040B-C3BA-4E03-9FD3-DEDF30B6AC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D37040B-C3BA-4E03-9FD3-DEDF30B6AC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C30815B-84F1-403A-BF07-CEF92BF32839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C30815B-84F1-403A-BF07-CEF92BF32839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C30815B-84F1-403A-BF07-CEF92BF32839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C30815B-84F1-403A-BF07-CEF92BF32839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

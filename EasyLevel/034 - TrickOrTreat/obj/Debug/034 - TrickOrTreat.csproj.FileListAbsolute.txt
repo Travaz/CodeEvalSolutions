@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\bin\Debug\034 - TrickOrTreat.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\bin\Debug\034 - TrickOrTreat.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\bin\Debug\034 - TrickOrTreat.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\obj\Debug\034 - TrickOrTreat.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\obj\Debug\034 - TrickOrTreat.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\034 - TrickOrTreat\obj\Debug\034 - TrickOrTreat.pdb
