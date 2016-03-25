@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\bin\Debug\033 - MultiplyLists.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\bin\Debug\033 - MultiplyLists.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\bin\Debug\033 - MultiplyLists.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\obj\Debug\033 - MultiplyLists.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\obj\Debug\033 - MultiplyLists.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\033 - MultiplyLists\obj\Debug\033 - MultiplyLists.pdb
