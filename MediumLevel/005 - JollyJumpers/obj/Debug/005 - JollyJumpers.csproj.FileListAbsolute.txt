@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\bin\Debug\005 - JollyJumpers.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\bin\Debug\005 - JollyJumpers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\bin\Debug\005 - JollyJumpers.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\obj\Debug\005 - JollyJumpers.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\obj\Debug\005 - JollyJumpers.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\MediumLevel\005 - JollyJumpers\obj\Debug\005 - JollyJumpers.pdb

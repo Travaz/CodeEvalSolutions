@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - StackImplementation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - LastFromList", "004 - LastFromList\004 - LastFromList.csproj", "{75F9A6A2-D5A7-4119-8428-D81222619709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - JollyJumpers", "005 - JollyJumpers\005 - JollyJumpers.csproj", "{B3F282BA-3D5C-4B2D-9F85-791FCCA42453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{75F9A6A2-D5A7-4119-8428-D81222619709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75F9A6A2-D5A7-4119-8428-D81222619709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75F9A6A2-D5A7-4119-8428-D81222619709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F282BA-3D5C-4B2D-9F85-791FCCA42453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F282BA-3D5C-4B2D-9F85-791FCCA42453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F282BA-3D5C-4B2D-9F85-791FCCA42453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F282BA-3D5C-4B2D-9F85-791FCCA42453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
