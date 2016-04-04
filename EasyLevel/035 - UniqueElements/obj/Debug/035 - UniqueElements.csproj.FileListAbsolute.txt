@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\bin\Debug\035 - UniqueElements.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\bin\Debug\035 - UniqueElements.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\bin\Debug\035 - UniqueElements.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\obj\Debug\035 - UniqueElements.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\obj\Debug\035 - UniqueElements.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\035 - UniqueElements\obj\Debug\035 - UniqueElements.pdb
