@@ -27,10 +27,7 @@ namespace _035___UniqueElements
                 .Select(line => line.Split(',').ToList().FilterForDuplicates().Aggregate((x, y) => x + "," + y))
                 .ToList()
                 .ForEach(Console.WriteLine);
-        }
-
-
-        
+        }       
     }
 
     public static class ListExtension

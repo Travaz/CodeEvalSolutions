@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034 - TrickOrTreat", "034 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "035 - UniqueElements", "035 - UniqueElements\035 - UniqueElements.csproj", "{5F0D7EE7-0A23-4707-B865-9DF01D5E8FE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036 - SetIntersection", "036 - SetIntersection\036 - SetIntersection.csproj", "{82B8BA33-2DA3-4AFA-90D8-F394F455BAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{5F0D7EE7-0A23-4707-B865-9DF01D5E8FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0D7EE7-0A23-4707-B865-9DF01D5E8FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0D7EE7-0A23-4707-B865-9DF01D5E8FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B8BA33-2DA3-4AFA-90D8-F394F455BAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B8BA33-2DA3-4AFA-90D8-F394F455BAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B8BA33-2DA3-4AFA-90D8-F394F455BAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B8BA33-2DA3-4AFA-90D8-F394F455BAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

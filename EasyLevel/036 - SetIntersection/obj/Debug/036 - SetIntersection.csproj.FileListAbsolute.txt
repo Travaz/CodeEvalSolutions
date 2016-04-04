@@ -1,0 +1,6 @@
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\bin\Debug\036 - SetIntersection.exe.config
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\bin\Debug\036 - SetIntersection.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\bin\Debug\036 - SetIntersection.pdb
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\obj\Debug\036 - SetIntersection.csprojResolveAssemblyReference.cache
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\obj\Debug\036 - SetIntersection.exe
+C:\Users\luca-dani\Source\Repos\CodeEvalSolutions\EasyLevel\036 - SetIntersection\obj\Debug\036 - SetIntersection.pdb
